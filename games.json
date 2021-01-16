@@ -1,0 +1,2974 @@
+[
+  {
+    "Name": "Alundra",
+    "Released": "1998-05-31T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Gran Turismo",
+    "Released": "1998-04-30T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tekken 3",
+    "Released": "1998-08-31T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Ape Escape",
+    "Released": "1999-06-30T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dino Crisis",
+    "Released": "1999-09-30T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Final Fantasy VIII",
+    "Released": "1999-09-30T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://ffviiiremastered.square-enix-games.com/en-us"
+    }
+  },
+  {
+    "Name": "Metal Gear Solid",
+    "Released": "1999-02-01T00:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Silent Hill",
+    "Released": "1999-02-01T00:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Street Fighter Alpha 3",
+    "Released": "1999-05-31T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": true,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://streetfighter.com/street-fighter-30th-anniversary-collection/"
+    }
+  },
+  {
+    "Name": "Tony Hawk's Pro Skater 1 ",
+    "Released": "1999-09-30T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.tonyhawkthegame.com/uk/en/"
+    }
+  },
+  {
+    "Name": "Chrono Cross",
+    "Released": "2000-07-31T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Gran Turismo 2",
+    "Released": "2000-01-01T00:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Grandia",
+    "Released": "2000-03-01T00:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.grandiahd.com/en/index.html"
+    }
+  },
+  {
+    "Name": "Lunar: Eternal Blue Complete",
+    "Released": "2000-08-31T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Persona 2: Eternal Punishment",
+    "Released": "2000-12-01T00:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Resident Evil 3: Nemesis",
+    "Released": "2000-02-01T00:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://en.wikipedia.org/wiki/Resident_Evil_3_(2020_video_game)"
+    }
+  },
+  {
+    "Name": "Tony Hawk's Pro Skater 2",
+    "Released": "2000-08-31T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.residentevil.com/re3/"
+    }
+  },
+  {
+    "Name": "Vagrant Story",
+    "Released": "2000-05-31T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Breath of Fire IV",
+    "Released": "2001-07-31T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Final Fantasy Chronicles",
+    "Released": "2001-05-31T23:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Final Fantasy IX",
+    "Released": "2001-02-01T00:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://finalfantasy-ix.square-enix-games.com/en-us/home/"
+    }
+  },
+  {
+    "Name": "Final Fantasy VI",
+    "Released": "2002-03-01T00:00:00.000Z",
+    "Platform": "PS1",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Rayman 2: The Great Escape",
+    "Released": "2000-12-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dead or Alive 2",
+    "Released": "2000-12-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "SSX",
+    "Released": "2000-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "TimeSplitters",
+    "Released": "2000-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Baldur's Gate: Dark Alliance",
+    "Released": "2001-12-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Devil May Cry",
+    "Released": "2001-12-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.capcom.co.jp/devilhd/uk/"
+    }
+  },
+  {
+    "Name": "Gran Turismo 3: A-Spec",
+    "Released": "2001-06-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Grand Theft Auto III",
+    "Released": "2001-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Resident Evil – Code: Veronica",
+    "Released": "2001-08-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.playstation.com/en-gb/games/resident-evil-code-veronica-x/"
+    }
+  },
+  {
+    "Name": "SSX Tricky",
+    "Released": "2001-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tony Hawk's Pro Skater 3",
+    "Released": "2001-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Twisted Metal: Black",
+    "Released": "2001-12-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Aggressive Inline",
+    "Released": "2002-07-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Final Fantasy X",
+    "Released": "2002-04-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": true,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/"
+    }
+  },
+  {
+    "Name": "Grand Theft Auto: Vice City",
+    "Released": "2002-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Grandia II",
+    "Released": "2002-03-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Medal of Honor: Frontline",
+    "Released": "2002-05-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Metal Gear Solid 2: Sons of Liberty",
+    "Released": "2002-03-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.konami.com/mg/archive/hd/mgs/"
+    }
+  },
+  {
+    "Name": "Need for Speed: Hot Pursuit 2",
+    "Released": "2002-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "TimeSplitters 2",
+    "Released": "2002-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tony Hawk's Pro Skater 4",
+    "Released": "2002-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Ape Escape 2",
+    "Released": "2003-05-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Beyond Good & Evil",
+    "Released": "2003-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.ubisoft.com/en-gb/game/beyond-good-and-evil-hd"
+    }
+  },
+  {
+    "Name": "Dark Chronicle",
+    "Released": "2003-08-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://store.playstation.com/en-gb/product/EP9000-CUSA02075_00-SCES511900000001"
+    }
+  },
+  {
+    "Name": "Guilty Gear X2 #Reload",
+    "Released": "2003-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "JAK II",
+    "Released": "2003-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.mobygames.com/game/jak-and-daxter-collection"
+    }
+  },
+  {
+    "Name": "Prince of Persia: The Sands of Time",
+    "Released": "2003-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.ubisoft.com/en-us/game/prince-of-persia/sands-of-time-remake"
+    }
+  },
+  {
+    "Name": "Ratchet & Clank 2: Going Commando",
+    "Released": "2003-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://en.wikipedia.org/wiki/Ratchet_&_Clank_Collection"
+    }
+  },
+  {
+    "Name": "Silent Hill 3",
+    "Released": "2003-04-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Soulcalibur II",
+    "Released": "2003-08-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.game.co.uk/en/soul-calibur-ii-hd-online-250263"
+    }
+  },
+  {
+    "Name": "SSX 3",
+    "Released": "2003-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tom Clancy's Splinter Cell",
+    "Released": "2003-03-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://splintercell.fandom.com/wiki/Tom_Clancy's_Splinter_Cell_Classic_Trilogy_HD"
+    }
+  },
+  {
+    "Name": "Tony Hawk's Underground",
+    "Released": "2003-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Virtua Fighter 10th Anniversary",
+    "Released": "2003-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Burnout 3: Takedown",
+    "Released": "2004-08-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Champions of Norrath",
+    "Released": "2004-05-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Final Fantasy X-2",
+    "Released": "2004-02-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": true,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://finalfantasyxhd.square-enix-games.com/en-gb/home/"
+    }
+  },
+  {
+    "Name": "Grand Theft Auto: San Andreas",
+    "Released": "2004-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Jak 3",
+    "Released": "2004-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.mobygames.com/game/jak-and-daxter-collection"
+    }
+  },
+  {
+    "Name": "Ratchet & Clank: Up Your Arsenal",
+    "Released": "2004-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://en.wikipedia.org/wiki/Ratchet_&_Clank_Collection"
+    }
+  },
+  {
+    "Name": "SOCOM II U.S. Navy SEALs",
+    "Released": "2004-03-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "Released": "2004-05-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://splintercell.fandom.com/wiki/Tom_Clancy's_Splinter_Cell_Classic_Trilogy_HD"
+    }
+  },
+  {
+    "Name": "Viewtiful Joe",
+    "Released": "2004-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Burnout Revenge",
+    "Released": "2005-08-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Devil May Cry 3: Dante's Awakening",
+    "Released": "2005-03-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://devilmaycry.fandom.com/wiki/Devil_May_Cry_HD_Collection"
+    }
+  },
+  {
+    "Name": "God of War",
+    "Released": "2005-06-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://godofwar.fandom.com/wiki/God_of_War_Saga"
+    }
+  },
+  {
+    "Name": "Gran Turismo 4",
+    "Released": "2005-03-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Metal Gear Solid 3: Snake Eater",
+    "Released": "2005-03-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.konami.com/mg/archive/hd/mgs/"
+    }
+  },
+  {
+    "Name": "Prince of Persia: The Two Thrones",
+    "Released": "2005-12-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Resident Evil 4",
+    "Released": "2005-11-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": true, "Link": "https://www.re4hd.com" }
+  },
+  {
+    "Name": "Shin Megami Tensei III: Nocturne",
+    "Released": "2005-06-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": true, "Link": "https://atlus.com/smt3/" }
+  },
+  {
+    "Name": "Tekken 5",
+    "Released": "2005-05-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Bully",
+    "Released": "2006-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dragon Quest VIII: Journey of the Cursed King",
+    "Released": "2006-03-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Final Fantasy XII",
+    "Released": "2007-02-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.amazon.co.uk/Final-Fantasy-XII-Zodiac-Age/dp/B01I38SL2O"
+    }
+  },
+  {
+    "Name": "God of War II",
+    "Released": "2007-03-31T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://godofwar.fandom.com/wiki/God_of_War_Saga"
+    }
+  },
+  {
+    "Name": "Persona 3 FES",
+    "Released": "2008-09-30T23:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Persona 4",
+    "Released": "2009-03-01T00:00:00.000Z",
+    "Platform": "PS2",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://store.steampowered.com/app/1113000/Persona_4_Golden/"
+    }
+  },
+  {
+    "Name": "Ratchet & Clank Future: Tools of Destruction",
+    "Released": "2007-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dead Space",
+    "Released": "2008-09-30T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Grand Theft Auto IV",
+    "Released": "2008-03-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "LittleBigPlanet",
+    "Released": "2008-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Metal Gear Solid 4: Guns of the Patriots",
+    "Released": "2008-05-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Valkyria Chronicles",
+    "Released": "2008-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.amazon.co.uk/Valkyria-Chronicles-Remastered-Europa-PS4/dp/B01DDCN756"
+    }
+  },
+  {
+    "Name": "Braid",
+    "Released": "2009-12-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.youtube.com/watch?v=Cf9A1QPG_yc"
+    }
+  },
+  {
+    "Name": "Fat Princess",
+    "Released": "2009-06-30T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Killzone 2",
+    "Released": "2009-02-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Ratchet & Clank Future: A Crack in Time",
+    "Released": "2009-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Battlefield: Bad Company 2",
+    "Released": "2010-03-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "BioShock 2",
+    "Released": "2010-02-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": true, "Link": null }
+  },
+  {
+    "Name": "Castle Crashers",
+    "Released": "2010-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.darkstation.com/reviews/castle-crashers-remastered/"
+    }
+  },
+  {
+    "Name": "Grand Theft Auto: Episodes from Liberty City",
+    "Released": "2010-03-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Lara Croft and the Guardian of Light",
+    "Released": "2010-07-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Need for Speed: Hot Pursuit",
+    "Released": "2010-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.ea.com/en-gb/games/need-for-speed/need-for-speed-hot-pursuit-remastered"
+    }
+  },
+  {
+    "Name": "Red Dead Redemption",
+    "Released": "2010-04-30T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Scott Pilgrim vs. the World: The Game",
+    "Released": "2010-07-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.ubisoft.com/en-us/game/scott-pilgrim-vs-the-world"
+    }
+  },
+  {
+    "Name": "Crysis",
+    "Released": "2011-09-30T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dead Space 2",
+    "Released": "2011-01-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "LittleBigPlanet 2",
+    "Released": "2011-01-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Mass Effect 2",
+    "Released": "2011-01-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Mortal Kombat",
+    "Released": "2011-03-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Oddworld: Stranger's Wrath HD",
+    "Released": "2011-12-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Plants vs. Zombies",
+    "Released": "2011-02-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Rayman Origins",
+    "Released": "2011-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Saints Row: The Third",
+    "Released": "2011-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": true, "Link": "https://saintsrow.com" }
+  },
+  {
+    "Name": "Binary Domain",
+    "Released": "2012-02-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Closure",
+    "Released": "2012-03-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Far Cry 3",
+    "Released": "2012-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.amazon.co.uk/Far-Cry-3-Classic-PS4/dp/B07D1WG57C"
+    }
+  },
+  {
+    "Name": "Mass Effect 3",
+    "Released": "2012-03-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Max Payne 3",
+    "Released": "2012-04-30T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Okami HD",
+    "Released": "2012-09-30T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": true, "Link": null }
+  },
+  {
+    "Name": "Persona 4 Arena",
+    "Released": "2012-04-30T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dragon's Dogma: Dark Arisen",
+    "Released": "2013-03-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.amazon.co.uk/Dragons-Dogma-Dark-Arisen-PS4/dp/B075MHNRK3"
+    }
+  },
+  {
+    "Name": "Hotline Miami",
+    "Released": "2013-05-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://store.playstation.com/en-gb/product/EP3643-CUSA00371_00-HLMBUNDLE0000000"
+    }
+  },
+  {
+    "Name": "Ni no Kuni: Wrath of the White Witch",
+    "Released": "2013-02-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.amazon.co.uk/Ni-No-Kuni-Wrath-Remastered/dp/B07TFWTQSK"
+    }
+  },
+  {
+    "Name": "Puppeteer",
+    "Released": "2013-08-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Spelunky",
+    "Released": "2013-07-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tales of Xillia",
+    "Released": "2013-07-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tom Clancy’s Splinter Cell Blacklist",
+    "Released": "2013-07-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "South Park: The Stick of Truth",
+    "Released": "2014-03-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.amazon.co.uk/South-Park-Stick-Truth-PS4/dp/B079JGHRK3/ref=sr_1_1?crid=I30OO97VRN0X&dchild=1&keywords=south+park+the+stick+of+truth+ps4&qid=1610546400&s=videogames&sprefix=South+Park:+The+Stick+of+Truth,videogames,170&sr=1-1"
+    }
+  },
+  {
+    "Name": "Hatsune Miku: Project DIVA F 2nd",
+    "Released": "2014-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Persona 4 Arena Ultimax",
+    "Released": "2014-11-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Swapper",
+    "Released": "2014-07-31T23:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://store.playstation.com/en-gb/product/EP4395-NPEJ00331_00-B000000000001122"
+    }
+  },
+  {
+    "Name": "Yakuza 5",
+    "Released": "2015-12-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.amazon.co.uk/SEGA-ATLA16-UK-22DE-Yakuza-Remastered-Collection/dp/B07X6VT4HX"
+    }
+  },
+  {
+    "Name": "Under Night In-Birth Exe:Late",
+    "Released": "2015-02-01T00:00:00.000Z",
+    "Platform": "PS3",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Sound Shapes",
+    "Released": "2013-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Child of Light",
+    "Released": "2014-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Diablo III: Ultimate Evil Edition",
+    "Released": "2014-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dragon Age: Inquisition",
+    "Released": "2014-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Far Cry 4",
+    "Released": "2014-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Guilty Gear Xrd -SIGN-",
+    "Released": "2014-12-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Middle-earth: Shadow of Mordor",
+    "Released": "2014-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Plants vs. Zombies: Garden Warfare",
+    "Released": "2014-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Rogue Legacy",
+    "Released": "2014-06-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Binding of Isaac: Rebirth",
+    "Released": "2014-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Wolf Among Us",
+    "Released": "2014-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Valiant Hearts: The Great War",
+    "Released": "2014-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Axiom Verge",
+    "Released": "2015-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "BlazBlue: Chrono Phantasma EXTEND",
+    "Released": "2015-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Devil May Cry 4: Special Edition",
+    "Released": "2015-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Disgaea 5: Alliance of Vengeance",
+    "Released": "2015-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hotline Miami 2: Wrong Number",
+    "Released": "2015-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Nuclear Throne",
+    "Released": "2015-12-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Shovel Knight",
+    "Released": "2015-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Talos Principle: Deluxe Edition",
+    "Released": "2015-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "BlazBlue: Central Fiction",
+    "Released": "2016-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Crypt of the NecroDancer",
+    "Released": "2016-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Darkest Dungeon",
+    "Released": "2016-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dishonored 2",
+    "Released": "2016-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Enter the Gungeon",
+    "Released": "2016-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Guilty Gear Xrd -REVELATOR-",
+    "Released": "2016-04-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "INSIDE",
+    "Released": "2016-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Mortal Kombat XL",
+    "Released": "2016-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Odin Sphere: Leifthrasir",
+    "Released": "2016-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Oxenfree",
+    "Released": "2016-04-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Plants vs. Zombies: Garden Warfare 2",
+    "Released": "2016-02-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Shantae: Half-Genie Hero",
+    "Released": "2016-12-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "SteamWorld Heist",
+    "Released": "2016-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Elder Scrolls V: Skyrim Special Edition",
+    "Released": "2016-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The King of Fighters XIV",
+    "Released": "2016-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Last Guardian",
+    "Released": "2016-12-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Witness",
+    "Released": "2016-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Thumper",
+    "Released": "2016-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "A Hat in Time",
+    "Released": "2017-12-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Danganronpa 1 & 2 Reload",
+    "Released": "2017-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Danganronpa V3: Killing Harmony",
+    "Released": "2017-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dishonored: Death of the Outsider",
+    "Released": "2017-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Full Throttle Remastered",
+    "Released": "2017-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Gravity Rush 2",
+    "Released": "2017-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Guilty Gear Xrd Rev 2",
+    "Released": "2017-04-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hatsune Miku: Project DIVA Future Tone",
+    "Released": "2017-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hellblade: Senua's Sacrifice",
+    "Released": "2017-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": true, "Link": null }
+  },
+  {
+    "Name": "L.A. Noire",
+    "Released": "2017-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "LocoRoco Remastered",
+    "Released": "2017-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Night in the Woods",
+    "Released": "2017-02-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Nioh",
+    "Released": "2017-02-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Pillars of Eternity: Complete Edition",
+    "Released": "2017-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Resident Evil 7: Biohazard",
+    "Released": "2017-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "South Park: The Fractured But Whole",
+    "Released": "2017-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "SteamWorld Dig 2",
+    "Released": "2017-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Sexy Brutale",
+    "Released": "2017-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Undertale",
+    "Released": "2017-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Wolfenstein II: The New Colossus",
+    "Released": "2017-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Wonder Boy: The Dragon's Trap",
+    "Released": "2017-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Yakuza 0",
+    "Released": "2017-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Ys VIII: Lacrimosa of DANA",
+    "Released": "2017-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Battle Chef Brigade",
+    "Released": "2018-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Bloodstained: Curse of the Moon",
+    "Released": "2018-04-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Burnout Paradise Remastered",
+    "Released": "2018-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Celeste",
+    "Released": "2018-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": true, "Link": null }
+  },
+  {
+    "Name": "Dead Cells",
+    "Released": "2018-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "DJMax Respect",
+    "Released": "2018-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Don't Starve: Mega Pack",
+    "Released": "2018-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dragon's Crown Pro",
+    "Released": "2018-04-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Guacamelee! 2",
+    "Released": "2018-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hollow Knight: Voidheart Edition",
+    "Released": "2018-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Monster Boy and the Cursed Kingdom",
+    "Released": "2018-12-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Owlboy",
+    "Released": "2018-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Red Dead Redemption 2",
+    "Released": "2018-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Subnautica",
+    "Released": "2018-12-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tetris Effect",
+    "Released": "2018-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Banner Saga 3",
+    "Released": "2018-06-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Under Night In-Birth Exe: Late[St]",
+    "Released": "2018-02-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Valkyria Chronicles 4",
+    "Released": "2018-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Yakuza 6: The Song of Life",
+    "Released": "2018-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Yakuza Kiwami 2",
+    "Released": "2018-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "A Plague Tale: Innocence",
+    "Released": "2019-04-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Arise: A simple story",
+    "Released": "2019-12-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Bloodstained: Ritual of the Night",
+    "Released": "2019-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Cat Quest II",
+    "Released": "2019-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Catherine: Full Body",
+    "Released": "2019-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Control",
+    "Released": "2019-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Crash Team Racing Nitro-Fueled",
+    "Released": "2019-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Death Stranding",
+    "Released": "2019-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Devil May Cry 5",
+    "Released": "2019-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": {
+      "isRemastered": true,
+      "Link": "https://www.amazon.co.uk/Devil-May-Cry-Special-PS5/dp/B08KKGTP15"
+    }
+  },
+  {
+    "Name": "Judgment",
+    "Released": "2019-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Kingdom Hearts III",
+    "Released": "2019-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "NieR: Automata Game of the YoRHa Edition",
+    "Released": "2019-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Outer Wilds",
+    "Released": "2019-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Risk of Rain 2",
+    "Released": "2019-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Samurai Shodown",
+    "Released": "2019-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Sayonara Wild Hearts",
+    "Released": "2019-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Sekiro: Shadows Die Twice",
+    "Released": "2019-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "STAR WARS Jedi: Fallen Order",
+    "Released": "2019-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tales of Vesperia: Definitive Edition",
+    "Released": "2019-01-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Legend of Heroes: Trails of Cold Steel",
+    "Released": "2019-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Legend of Heroes: Trails of Cold Steel III",
+    "Released": "2019-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Messenger",
+    "Released": "2019-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Wreckfest",
+    "Released": "2019-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Crash Bandicoot 4: It's About Time",
+    "Released": "2020-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Creaks",
+    "Released": "2020-06-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "CrossCode",
+    "Released": "2020-06-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Cuphead",
+    "Released": "2020-06-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "DOOM Eternal",
+    "Released": "2020-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "DOOM Eternal: The Ancient Gods - Part One",
+    "Released": "2020-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dreams",
+    "Released": "2020-02-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Ghost of Tsushima",
+    "Released": "2020-06-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Granblue Fantasy Versus",
+    "Released": "2020-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Huntdown",
+    "Released": "2020-04-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Nioh 2",
+    "Released": "2020-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Nioh 2 - Darkness in the Capital",
+    "Released": "2020-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Persona 5 Royal",
+    "Released": "2020-03-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Spelunky 2",
+    "Released": "2020-08-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Spiritfarer",
+    "Released": "2020-07-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Streets of Rage 4",
+    "Released": "2020-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Last of Us: Part II",
+    "Released": "2020-05-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Trials of Mana",
+    "Released": "2020-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Cave Story+",
+    "Released": "2017-06-30T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Mario + Rabbids Kingdom Battle",
+    "Released": "2017-07-31T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Splatoon 2",
+    "Released": "2017-06-30T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Xenoblade Chronicles 2",
+    "Released": "2017-12-01T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Bayonetta 2 + Bayonetta",
+    "Released": "2018-02-01T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Captain Toad: Treasure Tracker",
+    "Released": "2018-06-30T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Octopath Traveler",
+    "Released": "2018-06-30T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Super Smash Bros. Ultimate",
+    "Released": "2018-12-01T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Astral Chain",
+    "Released": "2019-07-31T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Fire Emblem: Three Houses",
+    "Released": "2019-06-30T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "New Super Mario Bros. U Deluxe",
+    "Released": "2019-01-01T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Pokémon Shield/Sword",
+    "Released": "2019-11-01T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Ring Fit Adventure",
+    "Released": "2019-09-30T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Super Mario Maker 2",
+    "Released": "2019-05-31T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Legend of Zelda: Link's Awakening",
+    "Released": "2019-08-31T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Yoshi's Crafted World",
+    "Released": "2019-03-01T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Super Mario 3D All-Stars",
+    "Released": "2020-08-31T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Xenoblade Chronicles: Definitive Edition",
+    "Released": "2020-04-30T23:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Turok 2: Seeds of Evil",
+    "Released": "1998-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Thief II: The Metal Age",
+    "Released": "2000-03-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Return to Castle Wolfenstein",
+    "Released": "2001-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Elder Scrolls III: Morrowind",
+    "Released": "2002-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Star Wars: Knights of the Old Republic",
+    "Released": "2003-12-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Rome: Total War",
+    "Released": "2004-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Vampire: The Masquerade – Bloodlines",
+    "Released": "2004-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "F.E.A.R.",
+    "Released": "2005-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Sid Meier's Civilization IV",
+    "Released": "2005-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Star Wars: Battlefront II",
+    "Released": "2005-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Star Wars: Knights of the Old Republic II - Sith Lord",
+    "Released": "2005-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Star Wars: Republic Commando",
+    "Released": "2005-03-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Company of Heroes",
+    "Released": "2006-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "FlatOut 2",
+    "Released": "2006-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hitman: Blood Money",
+    "Released": "2006-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Medieval II: Total War",
+    "Released": "2006-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Star Wars: Empire at War",
+    "Released": "2006-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Warhammer 40000: Dawn of War",
+    "Released": "2006-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Warhammer 40000: Dawn of War-Dark Crusade",
+    "Released": "2006-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "Released": "2007-03-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Audiosurf",
+    "Released": "2008-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "World of Goo",
+    "Released": "2008-12-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dragon Age: Origins",
+    "Released": "2009-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Empire: Total War",
+    "Released": "2009-03-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Amnesia: The Dark Descent",
+    "Released": "2010-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Fallout: New Vegas",
+    "Released": "2010-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Mafia II",
+    "Released": "2010-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Napoleon: Total War",
+    "Released": "2010-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "S.T.A.L.K.E.R.: Call of Pripyat",
+    "Released": "2010-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Super Meat Boy",
+    "Released": "2010-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Orcs Must Die!",
+    "Released": "2011-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Alan Wake",
+    "Released": "2012-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Crusader Kings II",
+    "Released": "2012-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Darksiders II",
+    "Released": "2012-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Mark of the Ninja",
+    "Released": "2012-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Orcs Must Die! 2",
+    "Released": "2012-06-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Cat Lady",
+    "Released": "2012-12-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Torchlight II",
+    "Released": "2012-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Assassin's Creed IV: Black Flag",
+    "Released": "2013-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien",
+    "Released": "2013-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Call of Juarez: Gunslinger",
+    "Released": "2013-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dust: An Elysian Tail",
+    "Released": "2013-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Europa Universalis IV",
+    "Released": "2013-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Papers Please",
+    "Released": "2013-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Skulls of the Shogun",
+    "Released": "2013-01-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Stanley Parable",
+    "Released": "2013-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Freedom Planet",
+    "Released": "2014-06-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Metal Gear Rising: Revengeance",
+    "Released": "2014-01-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Sleeping Dogs: Definitive Edition",
+    "Released": "2014-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Banner Saga",
+    "Released": "2014-01-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hacknet",
+    "Released": "2015-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Her Story",
+    "Released": "2015-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Kerbal Space Program",
+    "Released": "2015-03-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Lovers in a Dangerous Spacetime",
+    "Released": "2015-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Mini Metro",
+    "Released": "2015-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "SOMA",
+    "Released": "2015-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Legend of Heroes: Trails in the Sky SC",
+    "Released": "2015-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Day of the Tentacle Remastered",
+    "Released": "2016-03-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Flat Heroes",
+    "Released": "2016-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Forza Horizon 3",
+    "Released": "2016-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Gears of War 4",
+    "Released": "2016-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hearts of Iron IV",
+    "Released": "2016-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "OneShot",
+    "Released": "2016-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Planet Coaster",
+    "Released": "2016-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Rabi-Ribi",
+    "Released": "2016-01-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Songs for a Hero - A Lenda do Heroi",
+    "Released": "2016-03-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Banner Saga 2",
+    "Released": "2016-03-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Bleed 2",
+    "Released": "2017-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Cat Quest",
+    "Released": "2017-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Darkwood",
+    "Released": "2017-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Fight'N Rage",
+    "Released": "2017-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Forza Motorsport 7",
+    "Released": "2017-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hidden Folks",
+    "Released": "2017-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Rakuen",
+    "Released": "2017-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Slime Rancher",
+    "Released": "2017-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Tales of Berseria",
+    "Released": "2017-01-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Legend of Heroes: Trails in the Sky the 3rd",
+    "Released": "2017-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Total War: WARHAMMER II",
+    "Released": "2017-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "West of Loathing",
+    "Released": "2017-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "DUSK",
+    "Released": "2018-12-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Forza Horizon 4",
+    "Released": "2018-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Full Metal Furies",
+    "Released": "2018-01-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Iconoclasts",
+    "Released": "2018-01-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Into the Breach",
+    "Released": "2018-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Pillars of Eternity II: Deadfire",
+    "Released": "2018-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Return of the Obra Dinn",
+    "Released": "2018-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Awesome Adventures of Captain Spirit",
+    "Released": "2018-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Gardens Between",
+    "Released": "2018-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Yoku's Island Express",
+    "Released": "2018-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Youropa",
+    "Released": "2018-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Age of Empires II: Definitive Edition",
+    "Released": "2019-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Amid Evil",
+    "Released": "2019-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Baba Is You",
+    "Released": "2019-03-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Children of Morta",
+    "Released": "2019-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Dicey Dungeons",
+    "Released": "2019-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Frog Detective 2: The Case of the Invisible Wizard",
+    "Released": "2019-12-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Gato Roboto",
+    "Released": "2019-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Ion Fury",
+    "Released": "2019-07-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Islanders",
+    "Released": "2019-03-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Katana ZERO",
+    "Released": "2019-03-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Manifold Garden",
+    "Released": "2019-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "My Friend Pedro",
+    "Released": "2019-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Pikuniku",
+    "Released": "2019-01-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Streets of Rogue",
+    "Released": "2019-06-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Supraland",
+    "Released": "2019-03-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Touhou Luna Nights",
+    "Released": "2019-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Yakuza Kiwami",
+    "Released": "2019-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Yuppie Psycho",
+    "Released": "2019-03-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Command & Conquer Remastered Collection",
+    "Released": "2020-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Cook Serve Delicious! 3?!",
+    "Released": "2020-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Crusader Kings III",
+    "Released": "2020-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Deep Rock Galactic",
+    "Released": "2020-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Desperados III",
+    "Released": "2020-05-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Gears Tactics",
+    "Released": "2020-03-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Ghostrunner",
+    "Released": "2020-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hades",
+    "Released": "2020-08-31T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Lair of the Clockwork God",
+    "Released": "2020-02-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Monster Train",
+    "Released": "2020-04-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Ori and the Will of the Wisps",
+    "Released": "2020-03-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "The Pedestrian",
+    "Released": "2020-01-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": true,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "WHAT THE GOLF?",
+    "Released": "2020-09-30T23:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Yakuza: Like a Dragon",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Chicken Police",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Marvel's Spider-Man: Miles Morales",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "PS5",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Sackboy: A Big Adventure",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "PS5",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Football Manager 2021",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Visage",
+    "Released": "2020-09-30T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Sakuna: Of Rice and Ruin",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition",
+    "Released": "2020-12-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hyrule Warriors: Age of Calamity",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Mortal Kombat 11 Ultimate",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "PS5",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Cyberpunk 2077",
+    "Released": "2020-12-01T00:00:00.000Z",
+    "Platform": "PS5",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Monster Sanctuary",
+    "Released": "2020-12-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Alba: A Wildlife Adventure",
+    "Released": "2020-12-01T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Final Fantasy VII Remake",
+    "Released": "2020-03-31T23:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "WRC 9 FIA World Rally Championship",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "PS5",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Katamari Damacy REROLL",
+    "Released": "2020-11-01T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Puyo Puyo Tetris 2",
+    "Released": "2020-12-08T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Immortals: Fenyx Rising",
+    "Released": "2020-12-03T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Call of Duty: Black Ops Cold War",
+    "Released": "2020-11-13T00:00:00.000Z",
+    "Platform": "PS5",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  }
+]
