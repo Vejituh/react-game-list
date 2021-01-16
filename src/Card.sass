@@ -1,0 +1,14 @@
+.card-container
+    display: grid
+    grid-template-columns: repeat(auto-fill, minmax(100%, 1fr))
+    gap: 1em
+    margin: 0 auto
+    @media (min-width: 664px)
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr))
+        gap: 2em
+    @media (min-width: 1028px)
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr))
+        gap: 3em
+    .card
+        background: pink
+        padding: 1em

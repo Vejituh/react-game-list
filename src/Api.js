@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Input from "./Input"
+import "./Api.sass"
 
 function Api() {
   const [data, setData] = useState([]);
@@ -27,7 +28,7 @@ function Api() {
     });
   };
 
-  return <div>
+  return <div className="container">
       <Input {...data}/>
   </div>
 }

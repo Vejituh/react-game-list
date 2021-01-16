@@ -28,18 +28,16 @@ function Input(props) {
   }
 
   return (
-    <div>
+    <>
       <input type="text" onChange={handleChange} value={name}></input>
-      {games.length > 0
-        ? games.map((game) => {
-            return (
-              <div key={game[0]}>
-                <Card {...game[1]} />
-              </div>
-            );
-          })
-        : null}
-    </div>
+      <div className="card-container">
+        {games.length > 0
+          ? games.map((game) => {
+              return <Card key={game[0]} {...game[1]} />;
+            })
+          : null}
+      </div>
+    </>
   );
 }
 
