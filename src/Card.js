@@ -1,18 +1,32 @@
 import React from "react";
-import "./Card.sass"
+import "./Card.sass";
 
 function Card(props) {
+    function isPurchased() {
+        return props.isPurchased? "rest-content purchased-width" : "rest-content full-width"
+    }
+
   return (
     <div className="card">
-      <p>{props.Name}</p>
-      <p>{props.Released.slice(0, 4)}</p>
-      <p>{props.Platform}</p>
-      <span>
-        {props.Remastered.isRemastered ? (
-          <a href={props.Remastered.Link} target="_blank" rel="noreferrer">Remaster</a>
-        ) : null}
-      </span>
-      <p>{props.isPurchased ? `purchased: Yes` : null}</p>
+      {props.isPurchased ? (
+        <div className="purchased">
+          <span></span>
+        </div>
+      ) : null}
+      <div className={isPurchased()}>
+        <p>{props.Name}</p>
+        <div>
+          <p>{props.Released.slice(0, 4)}</p>
+          <p>{props.Platform}</p>
+        </div>
+        <span>
+          {props.Remastered.isRemastered ? (
+            <a href={props.Remastered.Link} target="_blank" rel="noreferrer">
+              Remaster
+            </a>
+          ) : null}
+        </span>
+      </div>
     </div>
   );
 }

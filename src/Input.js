@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Card from "./Card";
+import "./Input.sass"
 
 function Input(props) {
   const [name, setName] = useState([]);
@@ -29,7 +30,7 @@ function Input(props) {
 
   return (
     <>
-      <input type="text" onChange={handleChange} value={name}></input>
+      <input type="text" onChange={handleChange} value={name} placeholder="Enter Game Name"></input>
       <div className="card-container">
         {games.length > 0
           ? games.map((game) => {
