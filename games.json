@@ -10,7 +10,7 @@
     "Name": "Gran Turismo",
     "Released": "1998-04-30T23:00:00.000Z",
     "Platform": "PS1",
-    "isPurchased": false,
+    "isPurchased": true,
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
@@ -1988,13 +1988,6 @@
     "Name": "Xenoblade Chronicles: Definitive Edition",
     "Released": "2020-04-30T23:00:00.000Z",
     "Platform": "SWITCH",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Turok 2: Seeds of Evil",
-    "Released": "1998-02-01T00:00:00.000Z",
-    "Platform": "PC",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
   },
