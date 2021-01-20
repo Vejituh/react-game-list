@@ -2963,5 +2963,12 @@
     "Platform": "PS5",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Hitman III",
+    "Released": "2021-01-20T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
   }
 ]
