@@ -1,19 +1,5 @@
 [
   {
-    "Name": "Alundra",
-    "Released": "1998-05-31T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Gran Turismo",
-    "Released": "1998-04-30T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": true,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Tekken 3",
     "Released": "1998-08-31T23:00:00.000Z",
     "Platform": "PS1",
@@ -646,13 +632,6 @@
   {
     "Name": "Ratchet & Clank Future: Tools of Destruction",
     "Released": "2007-11-01T00:00:00.000Z",
-    "Platform": "PS3",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Dead Space",
-    "Released": "2008-09-30T23:00:00.000Z",
     "Platform": "PS3",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
