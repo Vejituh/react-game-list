@@ -1,12 +1,5 @@
 [
   {
-    "Name": "Tekken 3",
-    "Released": "1998-08-31T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Ape Escape",
     "Released": "1999-06-30T23:00:00.000Z",
     "Platform": "PS1",
@@ -29,13 +22,6 @@
       "isRemastered": true,
       "Link": "https://ffviiiremastered.square-enix-games.com/en-us"
     }
-  },
-  {
-    "Name": "Metal Gear Solid",
-    "Released": "1999-02-01T00:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
   },
   {
     "Name": "Silent Hill",
@@ -1593,7 +1579,7 @@
     "Name": "Control",
     "Released": "2019-07-31T23:00:00.000Z",
     "Platform": "PS4",
-    "isPurchased": false,
+    "isPurchased": true,
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
@@ -2947,6 +2933,20 @@
     "Name": "Hitman III",
     "Released": "2021-01-20T00:00:00.000Z",
     "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Skul: The Hero Slayer",
+    "Released": "2021-01-20T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "Released": "2021-01-25T00:00:00.000Z",
+    "Platform": "PC",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
   }
