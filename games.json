@@ -24,13 +24,6 @@
     }
   },
   {
-    "Name": "Silent Hill",
-    "Released": "1999-02-01T00:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Street Fighter Alpha 3",
     "Released": "1999-05-31T23:00:00.000Z",
     "Platform": "PS1",
@@ -680,13 +673,6 @@
   {
     "Name": "Ratchet & Clank Future: A Crack in Time",
     "Released": "2009-11-01T00:00:00.000Z",
-    "Platform": "PS3",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Battlefield: Bad Company 2",
-    "Released": "2010-03-01T00:00:00.000Z",
     "Platform": "PS3",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
@@ -2104,13 +2090,6 @@
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
-    "Name": "Dragon Age: Origins",
-    "Released": "2009-11-01T00:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Empire: Total War",
     "Released": "2009-03-01T00:00:00.000Z",
     "Platform": "PC",
@@ -2701,13 +2680,6 @@
   {
     "Name": "Yuppie Psycho",
     "Released": "2019-03-31T23:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Command & Conquer Remastered Collection",
-    "Released": "2020-05-31T23:00:00.000Z",
     "Platform": "PC",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
