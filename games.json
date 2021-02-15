@@ -1,39 +1,5 @@
 [
   {
-    "Name": "Ape Escape",
-    "Released": "1999-06-30T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Dino Crisis",
-    "Released": "1999-09-30T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Final Fantasy VIII",
-    "Released": "1999-09-30T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://ffviiiremastered.square-enix-games.com/en-us"
-    }
-  },
-  {
-    "Name": "Street Fighter Alpha 3",
-    "Released": "1999-05-31T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": true,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://streetfighter.com/street-fighter-30th-anniversary-collection/"
-    }
-  },
-  {
     "Name": "Tony Hawk's Pro Skater 1 ",
     "Released": "1999-09-30T23:00:00.000Z",
     "Platform": "PS1",
@@ -2918,6 +2884,13 @@
   {
     "Name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
     "Released": "2021-01-25T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Little Nightmares II",
+    "Released": "2021-02-11T00:00:00.000Z",
     "Platform": "PC",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
