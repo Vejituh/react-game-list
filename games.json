@@ -1,15 +1,5 @@
 [
   {
-    "Name": "Tony Hawk's Pro Skater 1 ",
-    "Released": "1999-09-30T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://www.tonyhawkthegame.com/uk/en/"
-    }
-  },
-  {
     "Name": "Chrono Cross",
     "Released": "2000-07-31T23:00:00.000Z",
     "Platform": "PS1",
@@ -61,7 +51,7 @@
     "Name": "Tony Hawk's Pro Skater 2",
     "Released": "2000-08-31T23:00:00.000Z",
     "Platform": "PS1",
-    "isPurchased": false,
+    "isPurchased": true,
     "Remastered": {
       "isRemastered": true,
       "Link": "https://www.residentevil.com/re3/"
