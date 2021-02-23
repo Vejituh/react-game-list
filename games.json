@@ -2877,5 +2877,12 @@
     "Platform": "PC",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
-  }
+  },
+  {
+    "Name": "Persona 5 Strikers",
+    "Released": "2021-02-23T00:00:00.000Z",
+    "Platform": "PS4",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  } 
 ]
