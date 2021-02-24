@@ -1,26 +1,5 @@
 [
   {
-    "Name": "Chrono Cross",
-    "Released": "2000-07-31T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Lunar: Eternal Blue Complete",
-    "Released": "2000-08-31T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Persona 2: Eternal Punishment",
-    "Released": "2000-12-01T00:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Resident Evil 3: Nemesis",
     "Released": "2000-02-01T00:00:00.000Z",
     "Platform": "PS1",
@@ -43,20 +22,6 @@
   {
     "Name": "Vagrant Story",
     "Released": "2000-05-31T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Breath of Fire IV",
-    "Released": "2001-07-31T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Final Fantasy Chronicles",
-    "Released": "2001-05-31T23:00:00.000Z",
     "Platform": "PS1",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
@@ -1875,20 +1840,6 @@
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
-    "Name": "Thief II: The Metal Age",
-    "Released": "2000-03-01T00:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Return to Castle Wolfenstein",
-    "Released": "2001-11-01T00:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "The Elder Scrolls III: Morrowind",
     "Released": "2002-04-30T23:00:00.000Z",
     "Platform": "PC",
@@ -1910,22 +1861,8 @@
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
-    "Name": "Vampire: The Masquerade – Bloodlines",
-    "Released": "2004-11-01T00:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "F.E.A.R.",
     "Released": "2005-09-30T23:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Sid Meier's Civilization IV",
-    "Released": "2005-11-01T00:00:00.000Z",
     "Platform": "PC",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
@@ -1952,13 +1889,6 @@
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
-    "Name": "Company of Heroes",
-    "Released": "2006-08-31T23:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "FlatOut 2",
     "Released": "2006-05-31T23:00:00.000Z",
     "Platform": "PC",
@@ -1980,13 +1910,6 @@
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
-    "Name": "Star Wars: Empire at War",
-    "Released": "2006-02-01T00:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Warhammer 40000: Dawn of War",
     "Released": "2006-08-31T23:00:00.000Z",
     "Platform": "PC",
@@ -2003,13 +1926,6 @@
   {
     "Name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
     "Released": "2007-03-01T00:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Audiosurf",
-    "Released": "2008-02-01T00:00:00.000Z",
     "Platform": "PC",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
@@ -2038,13 +1954,6 @@
   {
     "Name": "Fallout: New Vegas",
     "Released": "2010-09-30T23:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Mafia II",
-    "Released": "2010-07-31T23:00:00.000Z",
     "Platform": "PC",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
@@ -2253,13 +2162,6 @@
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
-    "Name": "The Legend of Heroes: Trails in the Sky SC",
-    "Released": "2015-09-30T23:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Day of the Tentacle Remastered",
     "Released": "2016-03-01T00:00:00.000Z",
     "Platform": "PC",
@@ -2317,13 +2219,6 @@
   },
   {
     "Name": "Songs for a Hero - A Lenda do Heroi",
-    "Released": "2016-03-31T23:00:00.000Z",
-    "Platform": "PC",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "The Banner Saga 2",
     "Released": "2016-03-31T23:00:00.000Z",
     "Platform": "PC",
     "isPurchased": false,
