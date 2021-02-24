@@ -7,16 +7,6 @@
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
-    "Name": "Grandia",
-    "Released": "2000-03-01T00:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://www.grandiahd.com/en/index.html"
-    }
-  },
-  {
     "Name": "Lunar: Eternal Blue Complete",
     "Released": "2000-08-31T23:00:00.000Z",
     "Platform": "PS1",
@@ -198,13 +188,6 @@
   {
     "Name": "Grand Theft Auto: Vice City",
     "Released": "2002-11-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Grandia II",
-    "Released": "2002-03-01T00:00:00.000Z",
     "Platform": "PS2",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
