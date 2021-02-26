@@ -1,32 +1,5 @@
 [
   {
-    "Name": "Resident Evil 3: Nemesis",
-    "Released": "2000-02-01T00:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://en.wikipedia.org/wiki/Resident_Evil_3_(2020_video_game)"
-    }
-  },
-  {
-    "Name": "Tony Hawk's Pro Skater 2",
-    "Released": "2000-08-31T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": true,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://www.residentevil.com/re3/"
-    }
-  },
-  {
-    "Name": "Vagrant Story",
-    "Released": "2000-05-31T23:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Final Fantasy IX",
     "Released": "2001-02-01T00:00:00.000Z",
     "Platform": "PS1",
