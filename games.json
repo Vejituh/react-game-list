@@ -2735,5 +2735,12 @@
     "Platform": "PS4",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
+  },
+  {
+    "Name": "Super Mario 3D World + Bowser’s Fury",
+    "Released": "2021-02-12T00:00:00.000Z",
+    "Platform": "SWITCH",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
   } 
 ]
