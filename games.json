@@ -31,20 +31,6 @@
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
-    "Name": "SSX",
-    "Released": "2000-11-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "TimeSplitters",
-    "Released": "2000-09-30T23:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Baldur's Gate: Dark Alliance",
     "Released": "2001-12-01T00:00:00.000Z",
     "Platform": "PS2",
@@ -64,13 +50,6 @@
   {
     "Name": "Gran Turismo 3: A-Spec",
     "Released": "2001-06-30T23:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Grand Theft Auto III",
-    "Released": "2001-09-30T23:00:00.000Z",
     "Platform": "PS2",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
