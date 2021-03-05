@@ -1,32 +1,8 @@
 [
   {
-    "Name": "Final Fantasy IX",
-    "Released": "2001-02-01T00:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://finalfantasy-ix.square-enix-games.com/en-us/home/"
-    }
-  },
-  {
     "Name": "Final Fantasy VI",
     "Released": "2002-03-01T00:00:00.000Z",
     "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Rayman 2: The Great Escape",
-    "Released": "2000-12-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Dead or Alive 2",
-    "Released": "2000-12-01T00:00:00.000Z",
-    "Platform": "PS2",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
   },
@@ -46,30 +22,6 @@
       "isRemastered": true,
       "Link": "https://www.capcom.co.jp/devilhd/uk/"
     }
-  },
-  {
-    "Name": "Gran Turismo 3: A-Spec",
-    "Released": "2001-06-30T23:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Resident Evil – Code: Veronica",
-    "Released": "2001-08-31T23:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://www.playstation.com/en-gb/games/resident-evil-code-veronica-x/"
-    }
-  },
-  {
-    "Name": "SSX Tricky",
-    "Released": "2001-11-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
   },
   {
     "Name": "Tony Hawk's Pro Skater 3",
