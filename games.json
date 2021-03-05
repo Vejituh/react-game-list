@@ -2721,5 +2721,12 @@
     "Platform": "SWITCH",
     "isPurchased": false,
     "Remastered": { "isRemastered": false, "Link": null }
-  } 
+  },
+    {
+    "Name": "Loop Hero",
+    "Released": "2021-03-04T00:00:00.000Z",
+    "Platform": "PC",
+    "isPurchased": false,
+    "Remastered": { "isRemastered": false, "Link": null }
+  }
 ]
