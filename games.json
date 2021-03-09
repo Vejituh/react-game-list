@@ -181,13 +181,6 @@
     }
   },
   {
-    "Name": "SSX 3",
-    "Released": "2003-09-30T23:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Tom Clancy's Splinter Cell",
     "Released": "2003-03-31T23:00:00.000Z",
     "Platform": "PS2",
