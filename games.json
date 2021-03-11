@@ -307,13 +307,6 @@
     }
   },
   {
-    "Name": "Gran Turismo 4",
-    "Released": "2005-03-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Metal Gear Solid 3: Snake Eater",
     "Released": "2005-03-01T00:00:00.000Z",
     "Platform": "PS2",
