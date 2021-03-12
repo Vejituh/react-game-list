@@ -1,43 +1,5 @@
 [
   {
-    "Name": "Final Fantasy VI",
-    "Released": "2002-03-01T00:00:00.000Z",
-    "Platform": "PS1",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Baldur's Gate: Dark Alliance",
-    "Released": "2001-12-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Devil May Cry",
-    "Released": "2001-12-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://www.capcom.co.jp/devilhd/uk/"
-    }
-  },
-  {
-    "Name": "Tony Hawk's Pro Skater 3",
-    "Released": "2001-11-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
-    "Name": "Twisted Metal: Black",
-    "Released": "2001-12-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": { "isRemastered": false, "Link": null }
-  },
-  {
     "Name": "Aggressive Inline",
     "Released": "2002-07-31T23:00:00.000Z",
     "Platform": "PS2",
