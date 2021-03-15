@@ -31,16 +31,6 @@
     "Remastered": { "isRemastered": false, "Link": null }
   },
   {
-    "Name": "Metal Gear Solid 2: Sons of Liberty",
-    "Released": "2002-03-01T00:00:00.000Z",
-    "Platform": "PS2",
-    "isPurchased": false,
-    "Remastered": {
-      "isRemastered": true,
-      "Link": "https://www.konami.com/mg/archive/hd/mgs/"
-    }
-  },
-  {
     "Name": "Need for Speed: Hot Pursuit 2",
     "Released": "2002-09-30T23:00:00.000Z",
     "Platform": "PS2",
@@ -272,7 +262,7 @@
     "Name": "Metal Gear Solid 3: Snake Eater",
     "Released": "2005-03-01T00:00:00.000Z",
     "Platform": "PS2",
-    "isPurchased": false,
+    "isPurchased": true,
     "Remastered": {
       "isRemastered": true,
       "Link": "https://www.konami.com/mg/archive/hd/mgs/"
